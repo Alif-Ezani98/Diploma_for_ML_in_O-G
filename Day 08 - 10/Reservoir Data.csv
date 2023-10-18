@@ -1,0 +1,4 @@
+,Depth,Porosity,Permeability,Lithology,PorPermProduct,Temp,Por_Perm_Product
+zone_A,2000,0.41,23,Limestone,9.43,185.0,9.43
+zone_B,2500,0.37,34,Sandstone,12.58,225.0,12.58
+zone_C,3000,0.15,43,Shale,6.45,265.0,6.45
